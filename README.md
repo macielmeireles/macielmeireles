@@ -1,13 +1,13 @@
 <div align="center">
   <p>
-    <a href="#-english-version">🇺🇸 <strong>English Version</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-    <a href="#-versão-em-português">🇧🇷 <strong>Versão em Português</strong></a>
+    <a href="#en-readme">🇺🇸 <strong>English Version</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+    <a href="#pt-readme">🇧🇷 <strong>Versão em Português</strong></a>
   </p>
 </div>
 
 ---
 
-<div id="english-version" align="center">
+<div id="en-readme" align="center">
   <h1>Hello! I'm Maciel Meireles 👋</h1>
   
   <p>
@@ -82,7 +82,7 @@
 <hr>
 <br>
 
-<div id="versão-em-português" align="center">
+<div id="pt-readme" align="center">
   <h1>Olá! Eu sou Maciel Meireles 👋</h1>
   
   <p>
@@ -155,5 +155,5 @@
 
 <br>
 <div align="center">
-  <a href="#-english-version">⬆️ Back to Top / Voltar ao Topo</a>
+  <a href="#en-readme">⬆️ Back to Top / Voltar ao Topo</a>
 </div>

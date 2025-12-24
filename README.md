@@ -11,7 +11,7 @@
   <h1>Hello! I'm Maciel Meireles 👋</h1>
   
   <p>
-    <strong>IT Manager | Full Stack Developer | Infrastructure Architect</strong>
+    <strong>IT Manager | Full Stack Developer | Hybrid Infrastructure Specialist</strong>
   </p>
   
   <p>
@@ -29,7 +29,7 @@
   <br>
 
   <p align="center" width="80%">
-    Senior IT Professional with 25+ years bridging the gap between Business Strategy, Software Engineering, and Infrastructure Operations. Specialized in designing secure network architectures, managing open-source virtualization environments (Proxmox), and developing custom software solutions using modern stacks.
+    Senior IT Professional with 25+ years of experience bridging the gap between Business Strategy and Technical Execution. I specialize in managing <strong>Heterogeneous Environments</strong>, integrating the robustness of <strong>Open Source</strong> solutions (Linux, Proxmox) with the standard of <strong>Proprietary/Enterprise</strong> technologies (Microsoft, Windows Server). My focus is on delivering secure, cost-effective, and scalable architectures.
   </p>
 </div>
 
@@ -50,12 +50,12 @@
 
 <br>
 
-**☁️ Infrastructure & Virtualization**
+**☁️ Hybrid Infrastructure (Open Source & Enterprise)**
 <br>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 
 <br>
 
@@ -86,7 +86,7 @@
   <h1>Olá! Eu sou Maciel Meireles 👋</h1>
   
   <p>
-    <strong>Gerente de Tecnologia da Informação | Full Stack Developer | Especialista em Infraestrutura</strong>
+    <strong>Gerente de Tecnologia da Informação | Full Stack Developer | Especialista em Infraestrutura Híbrida</strong>
   </p>
   
   <p>
@@ -104,7 +104,7 @@
   <br>
 
   <p align="center" width="80%">
-    Com mais de 25 anos de experiência, atuo na convergência entre gestão estratégica e execução técnica. Minha expertise cobre o ciclo completo da TI: desde o desenvolvimento de sistemas modernos e análise de dados, até a arquitetura de redes seguras e virtualização corporativa com tecnologias Open Source.
+    Com mais de 25 anos de experiência, atuo na convergência entre gestão estratégica e execução técnica. Sou especialista em gerenciar <strong>Ambientes Híbridos</strong>, integrando a flexibilidade do mundo <strong>Open Source</strong> (Linux, Proxmox) com a padronização de tecnologias <strong>Proprietárias/Enterprise</strong> (Microsoft, Windows Server). Meu foco é entregar arquiteturas seguras, eficientes e escaláveis.
   </p>
 </div>
 
@@ -125,12 +125,12 @@
 
 <br>
 
-**☁️ Infraestrutura & Virtualização**
+**☁️ Infraestrutura Híbrida (Open Source & Enterprise)**
 <br>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 
 <br>
 

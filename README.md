@@ -56,13 +56,13 @@
 <img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<br>
+
+**🛡️ Network Security, Data & Observability**
+<br>
 <img src="https://img.shields.io/badge/PfSense-2C3E50?style=for-the-badge&logo=pfsense&logoColor=white" />
 <img src="https://img.shields.io/badge/OPNsense-E9573F?style=for-the-badge&logo=opnsense&logoColor=white" />
-
-<br>
-
-**🛡️ Security, Data & Observability**
-<br>
 <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/GLPI-005691?style=for-the-badge&logo=glpi&logoColor=white" />
@@ -131,13 +131,13 @@
 <img src="https://img.shields.io/badge/Proxmox_Backup-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<br>
+
+**🛡️ Segurança de Rede, Dados & Monitoramento**
+<br>
 <img src="https://img.shields.io/badge/PfSense-2C3E50?style=for-the-badge&logo=pfsense&logoColor=white" />
 <img src="https://img.shields.io/badge/OPNsense-E9573F?style=for-the-badge&logo=opnsense&logoColor=white" />
-
-<br>
-
-**🛡️ Segurança, Dados & Monitoramento**
-<br>
 <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/GLPI-005691?style=for-the-badge&logo=glpi&logoColor=white" />
